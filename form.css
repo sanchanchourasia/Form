@@ -14,6 +14,9 @@ body{
     color: yellow;
     
 }
+*{
+    color:red;
+}
 
 .formdiv{
     margin: 180px 650px;
